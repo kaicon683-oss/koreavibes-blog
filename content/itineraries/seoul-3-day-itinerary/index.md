@@ -10,6 +10,7 @@ tags:
     - 3-day
     - first-time
     - itinerary
+image: cover.jpg
 ---
 
 Three days in Seoul is enough to fall in love with the city. This itinerary balances iconic landmarks with local favorites, giving you the best of traditional and modern Korea without feeling rushed.
@@ -36,6 +37,8 @@ Start your trip at Seoul's grandest palace. Arrive by **9:00 AM** to avoid crowd
 
 **Pro tip:** Rent a hanbok (traditional Korean clothing) from one of the many shops nearby. You'll get free palace entry AND amazing photos. Rental costs around 15,000-20,000 KRW for 2 hours.
 
+![Bukchon Hanok Village in Seoul](bukchon.jpg)
+
 ### Late Morning: Bukchon Hanok Village
 
 A 10-minute walk from Gyeongbokgung, this hillside neighborhood is filled with traditional Korean houses (hanok) that are still lived in today.
@@ -55,6 +58,8 @@ Walk south to **Insadong**, a charming street filled with tea houses, art galler
 Stop by **Jogyesa Temple** -- a peaceful Buddhist temple right in the middle of the city. Free entry.
 
 ### Evening: Gwangjang Market
+
+![Gwangjang Market street food](gwangjang.jpg)
 
 **Subway:** Line 1, Jongno 5-ga Station, Exit 8
 
@@ -76,6 +81,8 @@ This tiny neighborhood is packed with Instagram-worthy cafes and boutiques set i
 
 ### Late Morning: Myeongdong
 
+![Myeongdong shopping district](myeongdong.jpg)
+
 **Subway:** Line 4, Myeongdong Station, Exit 6
 
 Korea's most famous shopping district. Great for:
@@ -91,6 +98,8 @@ A Myeongdong institution famous for handmade *kalguksu* (knife-cut noodle soup).
 
 ### Afternoon: Namsan Tower (N Seoul Tower)
 
+![N Seoul Tower at sunset](namsan.jpg)
+
 **Walk or cable car from Myeongdong**
 
 Hike up Namsan Mountain (about 30 minutes) or take the cable car (round trip 14,000 KRW). The observation deck offers panoramic views of Seoul.
@@ -98,6 +107,8 @@ Hike up Namsan Mountain (about 30 minutes) or take the cable car (round trip 14,
 **Best at sunset** -- time your visit so you catch the city transitioning from day to night.
 
 ### Evening: Hongdae
+
+![Hongdae nightlife district](hongdae.jpg)
 
 **Subway:** Line 2, Hongik University Station, Exit 9
 
@@ -130,6 +141,8 @@ No trip to Korea is complete without Korean BBQ. Find a local *samgyeopsal* (por
 **How it works:** Meat is grilled at your table. Wrap it in lettuce with garlic, ssamjang (sauce), and side dishes. Your server will usually help you grill if it's your first time.
 
 ### Afternoon: Yeouido Hangang Park
+
+![Han River in Seoul](hanriver.jpg)
 
 **Subway:** Line 5, Yeouinaru Station, Exit 3
 
